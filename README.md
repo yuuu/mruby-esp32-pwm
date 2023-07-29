@@ -1,3 +1,6 @@
+This repository has been archived.
+See [mruby-esp32/mruby-esp32-pwm](https://github.com/mruby-esp32/mruby-esp32-pwm) .
+
 # mruby-esp32-pwm
 
 PWM library for mruby-esp32.
